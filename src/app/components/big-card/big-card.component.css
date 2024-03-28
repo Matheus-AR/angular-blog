@@ -3,7 +3,6 @@
   margin-left: 20px;
   margin-right: 20px;
   width: 600px;
-  height: 500px;
 
   font-family: 'Segoe UI';
 
@@ -28,5 +27,6 @@
 
 .big-card__photo > img {
   width: 100%;
+  height: auto;
   min-width: 600px;
 }
